@@ -29,8 +29,8 @@ A simple and secure integration of the Razorpay payment gateway using **React.js
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/KrishBharadwaj5678/RazorpayIntegration.git
-cd RazorpayIntegration
+git clone https://github.com/KrishBharadwaj5679/RazorPay-Integration.git
+cd Razorpay-Integration
 ````
 
 ### 2. Backend Setup
